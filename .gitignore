@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/modules.xml
+.idea/trickit.iml
+.idea/workspace.xml
